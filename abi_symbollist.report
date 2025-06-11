@@ -6095,6 +6095,7 @@ rdev_get_id	UNKNOWN
 rdev_get_regmap	UNKNOWN	
 read_cache_folio	UNKNOWN	
 read_cache_page	UNKNOWN	
+read_swap_cache_async	UNKNOWN	
 readahead_gfp_mask	UNKNOWN	
 reboot_mode	UNKNOWN	
 rebuild_sched_domains	UNKNOWN	
@@ -7683,6 +7684,7 @@ unregister_tcf_proto_ops	UNKNOWN
 unregister_virtio_device	UNKNOWN	
 unregister_virtio_driver	UNKNOWN	
 unregister_vmap_purge_notifier	UNKNOWN	
+unuse_swap_pte	UNKNOWN	
 up	UNKNOWN	
 up_read	UNKNOWN	
 up_write	UNKNOWN	
@@ -8111,6 +8113,7 @@ vb2_request_queue	UNKNOWN
 vb2_request_validate	UNKNOWN	
 vb2_streamoff	UNKNOWN	
 vb2_streamon	UNKNOWN	
+vb2_video_unregister_device	UNKNOWN	
 vb2_vmalloc_memops	UNKNOWN	
 vb2_wait_for_all_buffers	UNKNOWN	
 vchan_dma_desc_free_list	UNKNOWN	
@@ -8120,6 +8123,7 @@ vchan_tx_desc_free	UNKNOWN
 vchan_tx_submit	UNKNOWN	
 verify_pkcs7_signature	UNKNOWN	
 vfree	UNKNOWN	
+vfs_fadvise	UNKNOWN	
 vfs_fsync	UNKNOWN	
 vfs_fsync_range	UNKNOWN	
 vfs_llseek	UNKNOWN	
